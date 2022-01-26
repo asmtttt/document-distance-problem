@@ -1,11 +1,13 @@
 # Document-Distance-Problem
 
-PROBLEM
+PROBLEM TANIMI
 
 Document distance problem with cosine similarity in python 
 
+_____________________________________________________________________________________________
 
-ACIKLAMA
+
+AÇIKLAMA
 
 Bu python uygulamasi 2 dokumana arasindaki benzerligi hesaplamaktadir.
 
