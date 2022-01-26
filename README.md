@@ -1,13 +1,18 @@
 # Document-Distance-Problem
+
+PROBLEM
+
 Document distance problem with cosine similarity in python 
 
 
-Bu python uygulamasi 2 dokumana arasindaki benzerligi hesaplamaktadir.
+ACIKLAMA
 
-Kosinus benzerligini kullanarak uygulanana bu python programinda sonuc eger 0'a yaklasirsa
+# Bu python uygulamasi 2 dokumana arasindaki benzerligi hesaplamaktadir.
 
-dokumanlar arasi benzerlik degeri artmaktadir.
+# Kosinus benzerligini kullanarak uygulanana bu python programinda sonuc eger 0'a yaklasirsa
 
-Sonuc = 0 oldugu durum her iki dokumaninda da ayni dokuman oldugu durumlardir.
+# Dokumanlar arasi benzerlik degeri artmaktadir.
+
+# Sonuc = 0 oldugu durum her iki dokumaninda da ayni dokuman oldugu durumlardir.
 
 
