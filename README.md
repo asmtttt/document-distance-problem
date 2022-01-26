@@ -9,12 +9,12 @@ ________________________________________________________________________________
 
 AÇIKLAMA
 
-Bu python uygulamasi 2 dokumana arasindaki benzerligi hesaplamaktadir.
+Bu python uygulaması 2 doküman arasındaki benzerliği hesaplamaktadır.
 
-Kosinus benzerligini kullanarak uygulanana bu python programinda sonuc eger 0'a yaklasirsa
+Kosinüs benzerliğini kullanarak uygulanan bu python programında sonuç eğer 0'a yaklaşırsa
 
-Dokumanlar arasi benzerlik degeri artmaktadir.
+Dokümanlar arası benzerlik değeri artmaktadır.
 
-Sonuc = 0 oldugu durum her iki dokumaninda da ayni dokuman oldugu durumlardir.
+Sonuç = 0 olduğu durumlar her iki dokumanında da aynı doküman olduğu durumlardır.
 
 
